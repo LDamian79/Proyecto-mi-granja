@@ -1,0 +1,4 @@
+3 pollitos
+5 vacas
+6 caballos
+10 patos
